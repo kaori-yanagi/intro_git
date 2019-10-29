@@ -4,3 +4,5 @@ git hub コミット
 
 git commid
 git add
+
+git push
