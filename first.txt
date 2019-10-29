@@ -6,3 +6,4 @@ git commid
 git add
 
 git push
+git push
