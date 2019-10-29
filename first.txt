@@ -1,3 +1,6 @@
 ﻿Gitの練習をしてきます。
 
 git hub コミット
+
+git commid
+git add
